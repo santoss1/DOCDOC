@@ -6,7 +6,8 @@ All data comes from the Center from Medicaire and Medicaid Services (CMS) and pe
 
 Because of the size of the dataset (3GB) I am using a dropbox to store the data and shinyapps.io to store the front end (ui.R) and server calculations (server.R). This may slowdown the user interaction. Everytime you update a ZIP code you may experience a time-lagg of a couple seconds before the available procedures for that ZIP code appear.
 
-The app works best with the Chrome browser. Experiments with Safari showed lower performance. We also experimented with a tablet as a browser and the markers did not display on the screen. 
+The app works best with the Chrome browser. Experiments with Safari showed lower performance. We also experimented with an iPad tablet with Safari as a browser and the markers did not display on the screen. 
+
 
 
 
